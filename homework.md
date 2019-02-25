@@ -14,7 +14,7 @@
 
 ### Python3 练习题操作要求
 
-- 克隆 XifeiPython3 仓库
+- Fork XifeiPython3 仓库
 - 本地创建自己名字的分支
 - 在自己分支下进行 Python3 练习题，并本地提交
 - 推送本地提交到自己的服务器仓库
